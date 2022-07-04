@@ -30,6 +30,6 @@ Ph. D. candidate in Computer Science and Technology, Nanjing University of Aeron
 
     
 
-- #### Nanjing University of Information and Technology      &emsp; &emsp;  2015-2019
+- #### Nanjing University of Information and Technology      &emsp; &emsp; <p align="right">2015-2019</p>
 
     ​	Bachelor of Information Engineering
