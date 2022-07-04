@@ -20,16 +20,16 @@ Ph. D. candidate in Computer Science and Technology, Nanjing University of Aeron
 
 - Nanjing University of Aeronautics and Astronautics    2020-    
 
-    Ph. D. candidate of Computer Science and Technology 
+    ​	Ph. D. candidate of Computer Science and Technology 
 
     
 
 - Nanjing University of Aeronautics and Astronautics    2020-2022
 
-    Master of Computer Science and Technology
+    ​	Master of Computer Science and Technology
 
     
 
 - Nanjing University of Information and Technology      2015-2019
 
-    Bachelor of Information Engineering
+    ​	Bachelor of Information Engineering
