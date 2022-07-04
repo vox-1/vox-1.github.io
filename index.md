@@ -8,13 +8,19 @@ Ph. D. candidate in Computer Science and Technology, Nanjing University of Aeron
 
 ## Research Interests
 
-- Deep Learning
+>- Deep Learning
+>
+>
+>
+>- Computational mesh
+>
+> 
 
+## Education
 
-
-- Computational mesh
+- Nanjing University of Aeronautics and Astronautics                                                                                                           2020-.
 
   
 
-## Education
+- Nanjing University of Information and Technology                                                                                                             2015-2019
 
