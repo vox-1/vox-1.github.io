@@ -18,18 +18,18 @@ Ph. D. candidate in Computer Science and Technology, Nanjing University of Aeron
 
 ## Education
 
-- #### Nanjing University of Aeronautics and Astronautics    &emsp;&emsp;&emsp;&emsp;2020-    
+>- #### Nanjing University of Aeronautics and Astronautics    &emsp;&emsp;&emsp;&emsp;2020-    
 
-    ​	Ph. D. candidate of Computer Science and Technology 
-
-    
-
-- #### Nanjing University of Aeronautics and Astronautics    &emsp;&emsp;&emsp;&emsp;2020-2022
-
-    ​	Master of Computer Science and Technology
+>    ​	Ph. D. candidate of Computer Science and Technology 
 
     
 
-- #### Nanjing University of Information Science and Technology    &emsp;2015-2019
+>- #### Nanjing University of Aeronautics and Astronautics    &emsp;&emsp;&emsp;&emsp;2020-2022
 
-    ​	Bachelor of Information Engineering
+>    ​	Master of Computer Science and Technology
+
+    
+
+>- #### Nanjing University of Information Science and Technology    &emsp;2015-2019
+
+>    ​	Bachelor of Information Engineering
